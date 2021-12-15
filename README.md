@@ -26,10 +26,11 @@ if unit =="miles":
   print(foot,"feet") 
 • Shall demonstrate basic understanding of Raspberry Pi I/O
 o Configure LED on breadboard 
--mostly done (we still need to add the LED and resistor) 26 resister 220ohms
+-done- GPIO 19, resister 220ohms
 o Blink LED 
 -how often will it blink? Every second
 -What color will the LED be? Red
+-10 loops
 
 • Shall demonstrate basic understanding of Pygame
 o Add a random rectangle to the center of the game screen
